@@ -1,9 +1,7 @@
 # Boom 
-
 Boom Feed is a modern web application designed to deliver personalized content feeds to users. Built with a focus on performance and scalability, it leverages contemporary web development technologies to provide a seamless user experience.
 
 ##  Tech Stack
-
 * **Frontend:**
 
   * React
@@ -18,12 +16,10 @@ Boom Feed is a modern web application designed to deliver personalized content f
   * Vite
 
 ##  Installation & Setup Instructions
-
 ### Prerequisites
 
 * Node.js
 * npm
-
 ### Steps
 
 1. **Clone the repository:**
