@@ -46,3 +46,5 @@ Boom Feed is a modern web application designed to deliver personalized content f
 
    Open your browser and navigate to `http://localhost:5173` to view the application.
 
+   Demo Live link : https://sensational-mooncake-c21b3e.netlify.app/
+
